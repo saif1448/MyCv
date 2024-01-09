@@ -1,0 +1,17 @@
+.navbar {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  
+  
+}
+
+.navigation-link-container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    gap:1em;
+    // padding: 3em 3em;
+  }
+
+  
