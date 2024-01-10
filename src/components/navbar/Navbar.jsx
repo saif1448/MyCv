@@ -14,10 +14,10 @@ const Navbar = () => {
             </NavLink>
             <div className='navigation-link-container'>
                 <NavLink to='/'><h3>Basic Information</h3></NavLink>
-                <NavLink to='/education'><h3>Education</h3></NavLink>
                 <NavLink to='/experience'><h3>Experiecne</h3></NavLink>
                 <NavLink to='/research'><h3>Research and Publications</h3></NavLink>
                 <NavLink to='/projects'><h3>Projects</h3></NavLink>
+                <NavLink to='/education'><h3>Education</h3></NavLink>
                 <NavLink to="#" onClick={handleDownload}><h3>CV</h3></NavLink>
             </div>
         </div>

@@ -1,0 +1,51 @@
+[
+  {
+    "id": 0,
+    "duration": "Current Employment",
+    "description": {
+      "designation": "Senior Officer-IT",
+      "organization": "Janata Bank PLC.",
+      "responsibilities": [
+        "In-house software development.",
+        "API development to connect CBS with third party system."
+      ]
+    }
+  },
+  {
+    "id": 1,
+    "duration": "May 2018 - September, 2020",
+    "description": {
+      "designation": "Lecturer",
+      "organization": "Daffodil International Univerisy",
+      "responsibilities": [
+        "Organizing and taking Computer Science academic courses.",
+        "Co-ordinatinating 'The Final Year Project and Thesis Defense Committee'.",
+        "Committee member of 'Course Distribution Committee'"
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "duration": "November 2017 - April 2018 ",
+    "description": {
+      "designation": "Lecturer",
+      "organization": "ZH Sikder University of Science and Technology",
+      "responsibilities": [
+        "Organizing and taking Computer Science academic courses.",
+        "Co-ordinatinating Computer Prgogramming Club and guided students as trainer."
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "duration": "April 2017 - September 2017",
+    "description": {
+      "designation": "Software Engineer",
+      "organization": "Celltron EMS",
+      "responsibilities": [
+        "ID Card Management System for Army HQ.",
+        "Access control system development."
+      ]
+    }
+  }
+]
