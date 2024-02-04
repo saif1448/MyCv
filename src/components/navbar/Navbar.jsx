@@ -4,14 +4,14 @@ import './Navbar.scss'
 import { handleDownload } from '../../utils/DownloadDocs'
 
 
-
-
 const Navbar = () => {
     return (
         <div className='navbar'>
-            <NavLink className="name-container" to="/">
-                <h2>Saif Mahmud Parvez</h2>
-            </NavLink>
+            <div className="name-container">
+                <NavLink  to="/">
+                    <h2>Saif Mahmud Parvez</h2>
+                </NavLink>
+            </div>
             <div className='navigation-link-container'>
                 <NavLink to='/'><h3>Basic Information</h3></NavLink>
                 <NavLink to='/experience'><h3>Experiecne</h3></NavLink>

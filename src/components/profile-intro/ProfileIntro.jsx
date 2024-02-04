@@ -9,7 +9,7 @@ import { IoLogoGithub } from "react-icons/io";
 import { SiGooglescholar } from "react-icons/si";
 const ProfileIntro = () => {
     return (
-        <div className='profile-intro'>
+        <div className='profile-intro rounded-box'>
             <div className='profile-image-container'>
                 <img className='profile-image' src={ProfileImage} alt="" />
             </div>

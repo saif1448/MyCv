@@ -1,6 +1,11 @@
 body{
-  padding: 1em 2em;
-  background-color: #FFFBF5;
+  /* padding: 1em 2em; */
+  /* background-color: #FFFBF5; */
+  /* background-color:  */
+  background: url('./assets/images/backdrop/backdrop1.jpg') no-repeat center center fixed;
+  background-size: cover;
+  padding: 0;
+  margin: 0;
 }
 
 h2{

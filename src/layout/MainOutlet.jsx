@@ -9,8 +9,10 @@ const MainOutlet = () => {
         <div className="main-container">
             <Navbar />
             <div className='portfoilo-container'>
-                <ProfileIntro />
-                <main>
+                <div className="portfolio-base">
+                    <ProfileIntro />
+                </div>
+                <main className='outlets'>
                     <Outlet />
                 </main>
             </div>

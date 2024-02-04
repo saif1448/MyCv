@@ -1,6 +1,20 @@
-.portfoilo-container{
-    display: grid;
-    grid-template-columns: 1fr 3.5fr;
-    padding-top: 2em;
+.portfoilo-container {
+    // display: grid;
+    // grid-template-columns: 1.29fr 3fr;
+  // padding-top: 2em;
+  // padding-left: 1em;
+  // .outlets {
+  //   padding-left: 2em;
+  // }
+  display: flex;
+  flex-flow: row wrap;
+  // justify-content: space-between;
+}
+
+.main-container {
     
 }
+.portfolio-base{
+  width: 30%;
+}
+
